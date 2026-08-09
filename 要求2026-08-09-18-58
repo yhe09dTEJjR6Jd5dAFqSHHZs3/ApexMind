@@ -1,10 +1,13 @@
 核心目标：一个智商无上限的AI。
 
+运行环境：
+VMware Workstation虚拟机（Windows 11 x64）
+已安装合适版本Python
+网络连接正常
+
 一开始，用户手里只有一个压缩包，里面只有code.py。
 
 code.py只包含会影响运行的内容。
-
-code.py可在已安装合适版本Python且网络连接正常的Windows 11 x64设备上高效运行。
 
 运行code.py后，所有相关文件尽量存放在code.py所在的文件夹内。
 
